@@ -306,23 +306,6 @@ OAUTH_REDIRECT_URL=https://developers.google.com/oauthplayground
 OAUTH_REFRESH_TOKEN=your_refresh_token
 ```
 
-[Setup Google Oauth](https://medium.com/@nickroach_50526/sending-emails-with-node-js-using-smtp-gmail-and-oauth2-316fe9c790a1)
-
-## Author
-
-👤 **masb0ymas**
-
-- Website: https://resume.masb0ymas.vercel.app
-- Twitter: [@masb0ymas](https://twitter.com/masb0ymas)
-- Github: [@masb0ymas](https://github.com/masb0ymas)
-- LinkedIn: [@masb0ymas](https://www.linkedin.com/in/masb0ymas/)
-
-## Support Me
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I03MVAI)
-
-[<img height="40" src="https://trakteer.id/images/mix/navbar-logo-lite.png">](https://trakteer.id/masb0ymas)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
