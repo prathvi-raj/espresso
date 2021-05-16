@@ -41,7 +41,7 @@
 clone this repo with `https` / `ssh` / `github cli`
 
 ```sh
-git clone https://github.com/masb0ymas/expresso.git
+git clone https://github.com/prathvi-raj/espresso.git
 ```
 
 After cloning this repo, make sure you have `duplicated` the `.env.example` file to `.env`, don't let the .env.example file be deleted or renamed.
